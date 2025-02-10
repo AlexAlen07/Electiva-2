@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Iamlilalex\\OneDrive\\Escritorio\\DOBLE AA\\P1\\Practicas\\PSC09\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3682780-0E6D-4D5D-9BCE-792F8F98F0E8}|PSC09\\PSC09.csproj|c:\\users\\iamlilalex\\onedrive\\escritorio\\doble aa\\p1\\practicas\\psc09\\psc09\\formularios\\frmfactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3682780-0E6D-4D5D-9BCE-792F8F98F0E8}|PSC09\\PSC09.csproj|solutionrelative:psc09\\formularios\\frmfactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3682780-0E6D-4D5D-9BCE-792F8F98F0E8}|PSC09\\PSC09.csproj|C:\\Users\\Iamlilalex\\OneDrive\\Escritorio\\DOBLE AA\\P1\\Practicas\\PSC09\\psc09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3682780-0E6D-4D5D-9BCE-792F8F98F0E8}|PSC09\\PSC09.csproj|solutionrelative:psc09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3682780-0E6D-4D5D-9BCE-792F8F98F0E8}|PSC09\\PSC09.csproj|C:\\Users\\Iamlilalex\\OneDrive\\Escritorio\\DOBLE AA\\P1\\Practicas\\PSC09\\psc09\\formularios\\frmfactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3682780-0E6D-4D5D-9BCE-792F8F98F0E8}|PSC09\\PSC09.csproj|solutionrelative:psc09\\formularios\\frmfactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Iamlilalex\\OneDrive\\Escritorio\\DOBLE AA\\P1\\Practicas\\PSC09\\PSC09\\Program.cs",
+              "RelativeDocumentMoniker": "PSC09\\Program.cs",
+              "ToolTip": "C:\\Users\\Iamlilalex\\OneDrive\\Escritorio\\DOBLE AA\\P1\\Practicas\\PSC09\\PSC09\\Program.cs",
+              "RelativeToolTip": "PSC09\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T18:04:49.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmFactura.cs",
+              "DocumentMoniker": "C:\\Users\\Iamlilalex\\OneDrive\\Escritorio\\DOBLE AA\\P1\\Practicas\\PSC09\\PSC09\\Formularios\\frmFactura.cs",
+              "RelativeDocumentMoniker": "PSC09\\Formularios\\frmFactura.cs",
+              "ToolTip": "C:\\Users\\Iamlilalex\\OneDrive\\Escritorio\\DOBLE AA\\P1\\Practicas\\PSC09\\PSC09\\Formularios\\frmFactura.cs",
+              "RelativeToolTip": "PSC09\\Formularios\\frmFactura.cs",
+              "ViewState": "AQIAAAkBAAAAAAAAAAD4vwkBAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T18:01:14.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmFactura.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Iamlilalex\\OneDrive\\Escritorio\\DOBLE AA\\P1\\Practicas\\PSC09\\PSC09\\Formularios\\frmFactura.cs",
+              "RelativeDocumentMoniker": "PSC09\\Formularios\\frmFactura.cs",
+              "ToolTip": "C:\\Users\\Iamlilalex\\OneDrive\\Escritorio\\DOBLE AA\\P1\\Practicas\\PSC09\\PSC09\\Formularios\\frmFactura.cs [Design]",
+              "RelativeToolTip": "PSC09\\Formularios\\frmFactura.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T18:01:09.514Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
